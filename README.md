@@ -14,15 +14,15 @@ Este desafio consiste em criar um backend em Node.js que serve como uma API REST
 
 ## Instruções de instalação
 Clone este repositório em sua máquina local.
-Navegue até o diretório do backend e execute o comando npm install para instalar as dependências.
+Navegue até o diretório do backend e execute o comando `npm install` para instalar as dependências.
 Configure as variáveis de ambiente necessárias, como as informações de conexão do banco de dados, em um arquivo .env.
-Execute o comando npm start para iniciar o backend.
+Execute o comando `npm start` para iniciar o backend.
 
 ## Para instalar e executar o aplicativo mobile:
 
-Navegue até o diretório do aplicativo mobile e execute o comando npm install para instalar as dependências.
+Navegue até o diretório do aplicativo mobile e execute o comando `npm install` para instalar as dependências.
 Configure as variáveis de ambiente necessárias, como a URL base da API, em um arquivo .env.
-Execute o comando npm start para iniciar o aplicativo no ambiente de desenvolvimento.
+Execute o comando `npm start` para iniciar o aplicativo no ambiente de desenvolvimento.
 Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
 ## Contribuição
@@ -30,4 +30,4 @@ Este repositório foi desenvolvido como parte de um evento da Rocketseat, portan
 
 ## Contato
 Se você tiver alguma dúvida ou sugestão relacionada a este repositório, fique à vontade para entrar em contato:
-[😉](https://www.linkedin.com/in/felipealves-/)
+[LinkedIn](https://www.linkedin.com/in/felipealves-/)
