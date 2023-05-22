@@ -1,21 +1,16 @@
 # NLW SPACETIME
-Bem-vindo(a) ao repositório do desafio XXX do evento da Rocketseat! Este repositório contém o código-fonte do backend em Node.js e do aplicativo mobile em React Native desenvolvidos durante o evento.
+Bem-vindo(a) ao repositório do desafio Spacetime do NLW da Rocketseat! Este repositório contém o código-fonte do backend em Node.js e do aplicativo mobile em React Native desenvolvidos durante o evento.
 
 ## Descrição
 Este desafio consiste em criar um backend em Node.js que serve como uma API RESTful e um aplicativo mobile em React Native que consome essa API. O objetivo é implementar uma funcionalidade específica, proporcionando uma experiência completa entre o backend e o frontend.
 
 ## Tecnologias utilizadas
 ### Backend (Node.js):
-Express.js
-Banco de dados (ex: PostgreSQL, MySQL)
-ORM (ex: Sequelize, TypeORM)
-Outras bibliotecas e ferramentas necessárias
+![image](https://github.com/felpsalvs/nlw-spacetime/assets/78622458/fdec2a3e-b39c-47d3-89a7-a99331498648)
 
 ### Aplicativo Mobile (React Native):
-React Navigation
-Redux (ou outra biblioteca de gerenciamento de estado)
-Axios (ou outra biblioteca para fazer requisições HTTP)
-Outras bibliotecas e ferramentas necessárias
+![image](https://github.com/felpsalvs/nlw-spacetime/assets/78622458/8d0e9eb7-29e3-4203-9eb6-801b7c930715)
+
 
 ## Instruções de instalação
 Clone este repositório em sua máquina local.
