@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react'
 import dayjs from 'dayjs'
 import { api } from '../src/lib/api'
 
-// dayjs.locale(ptBR)
+dayjs.locale(ptBR)
 
 interface Memory {
   coverURL: string

@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "spacetime-reactnative",
     "name": "spacetime-reactnative",
     "slug": "spacetime-reactnative",
     "version": "1.0.0",
