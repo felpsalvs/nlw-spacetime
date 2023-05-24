@@ -7,6 +7,7 @@ import { Link, useRouter } from 'expo-router'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useEffect, useState } from 'react'
 import dayjs from 'dayjs'
+import ptBR from 'dayjs/locale/pt-br'
 import { api } from '../src/lib/api'
 
 dayjs.locale(ptBR)
