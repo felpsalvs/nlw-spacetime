@@ -21,7 +21,7 @@ export default function App() {
       clientId: '4afbf2246526c7cf1776',
       scopes: ['identity'],
       redirectUri: makeRedirectUri({
-        scheme: 'nlwspacetime',
+        scheme: 'spacetime-reactnative',
       }),
     },
     discovery,
